@@ -1,0 +1,30 @@
+# Core LangChain and LangGraph
+langgraph==0.2.58
+langchain==0.3.13
+langchain-openai==0.2.14
+langchain-community==0.3.13
+langchain-core==0.3.28
+
+# OpenAI
+openai==1.59.3
+
+# Vector Database
+chromadb==0.5.23
+
+# Evaluation
+ragas==0.2.9
+datasets==3.2.0
+
+# Streamlit UI
+streamlit==1.41.1
+
+# Data Processing
+pandas==2.2.3
+numpy==2.2.1
+
+# Environment Management
+python-dotenv==1.0.1
+
+# Additional utilities
+tiktoken==0.8.0
+pydantic==2.10.4
